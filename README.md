@@ -7,7 +7,7 @@ This is a program I made to consolidate the concepts I learnt from CS50 course i
 It simulates a situation where a new client wants to enter his account to deposit or withdraw money. First, the user is asked to enter his/her ID in order to check that the customer is indeed a client of the bank.
 Then, the user decides the quantity to deposit or withdraw and the program outputs the deposit of the customer after the operations. Also, it has the option to convert the final deposit to dollars.
 
-Moreover, a the program has been tested out with pytest. 
+Moreover, the program has been tested out with pytest. 
 
 
 # bank_classs
